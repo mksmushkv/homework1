@@ -90,7 +90,7 @@
 // };
 
 //Задание 8
-// var clientOS = 0; 
+// let clientOS = 0; 
 // if (clientOS === 0) {
 //   console.log("Установите версию приложения для iOS по ссылке");
 // } else if (clientOS === 1) {
