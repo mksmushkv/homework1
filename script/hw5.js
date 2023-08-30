@@ -52,7 +52,7 @@
 //   console.log(Numbers(2, 5));
 //   console.log(Numbers(4, 'abcd')); 
 
-//Zadanie 6
+// Zadanie 6
 // function cubeNumber() {
 //     const input = prompt("Введите число:");
 //     const number = parseFloat(input);
